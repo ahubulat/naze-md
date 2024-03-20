@@ -31,9 +31,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285643774316']
-global.ownernomer = "6285643774316"
-global.premium = ['6285643774316']
+global.owner = ['']
+global.ownernomer = ""
+global.premium = ['']
 global.packname = 'Sticker By'
 global.author = 'Tahu Dev'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
